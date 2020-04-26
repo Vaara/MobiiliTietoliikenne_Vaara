@@ -1,0 +1,2 @@
+rootProject.name='Lab1_3_simpleHTTP'
+include ':app'

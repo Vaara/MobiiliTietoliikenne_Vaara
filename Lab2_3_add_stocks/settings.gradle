@@ -1,0 +1,2 @@
+rootProject.name='Lab2_3_add_stocks'
+include ':app'
